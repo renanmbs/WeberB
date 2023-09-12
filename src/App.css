@@ -84,4 +84,8 @@ img[src*="symbol"]{
   }
 }
 
-
+@media only screen and (max-width:480px){
+  #back{
+    width: 80%;
+  }
+}

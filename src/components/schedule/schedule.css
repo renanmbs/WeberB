@@ -61,3 +61,16 @@
     list-style: none;
     margin: 0.5rem 0;
 }
+
+@media only screen and (max-width:480px){
+    #box{
+        margin: 1% 0;
+        height: 10rem;
+        width: 15rem;
+    }
+
+    #sch h2{
+        font-size: 1.5rem;
+        padding: 2% 0;
+    }
+  }

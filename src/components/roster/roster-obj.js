@@ -353,7 +353,7 @@ export let coaches = [
         name:"Jaiden",
         last:"Ralphs",
         position:"Assistant Coach",
-        city:"",
+        city:"Layton",
         country:"USA",
         flag:"🇺🇸"
     },

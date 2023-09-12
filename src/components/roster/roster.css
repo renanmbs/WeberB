@@ -94,3 +94,22 @@
     font-size: 1.8rem;
 }
 
+@media only screen and (max-width:480px){
+    .name{
+        font-size: 1.2rem;
+    }
+
+    .last{
+        font-style: italic;
+        font-size: 1.1rem;
+    }
+
+    .border{
+        margin: 1% 0;
+    }
+
+    .border2{
+        margin: 1% 0;
+    }
+  }
+  

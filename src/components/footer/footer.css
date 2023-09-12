@@ -39,3 +39,16 @@ iframe{
     display: inline-flex;
     gap: 2rem;
 }
+
+@media only screen and (max-width:480px){
+    iframe{
+        height: 13rem;
+        width: 20rem;
+    }
+
+    .icons{
+        font-size: 2rem;
+        gap: 1.5rem;
+        margin: 2rem 0;
+    }
+  }
