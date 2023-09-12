@@ -85,11 +85,11 @@ img[src*="symbol"]{
 
 @media only screen and (max-width:480px){
   #main-box{
-    width: 22rem;
+    width: 24rem;
   }
 
   #box h1{
     text-align: center;
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 }
