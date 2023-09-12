@@ -105,15 +105,18 @@
     }
 
     .border{
-        margin: 1rem 0;
+        margin-top: 1rem 0;
+        margin-bottom: 1rem 0;
     }
 
     .border2{
-        margin: 1rem 0;
+        margin-bottom: 1rem 0;
     }
 
-    .border2{
-        margin: 1rem 0;
+    .rost2{
+        display: grid;
+        place-items: center;
+        grid-template-columns: repeat(3, minmax(0, 1.1fr))
     }
 
   }
