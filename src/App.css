@@ -87,4 +87,8 @@ img[src*="symbol"]{
   #main-box{
     width: 20rem;
   }
+
+  #box h1{
+    text-align: center;
+  }
 }
