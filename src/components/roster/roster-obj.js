@@ -66,7 +66,7 @@ export const players = [
         position:"Forward",
         city:"Ogden",
         country:"USA",
-        goals:0,
+        goals:6,
         assists:0,
         flag:"🇺🇸"
     },
@@ -88,9 +88,9 @@ export const players = [
         last:"Pearce",
         number:28,
         position:"Forward",
-        city:"",
+        city:"Layton",
         country:"USA",
-        goals:0,
+        goals:3,
         assists:0,
         flag:"🇺🇸"
     },
@@ -123,7 +123,7 @@ export const players = [
         name:"Cooper",
         last:"Crabtree",
         number:23,
-        position:"Defender",
+        position:"Defender (c)",
         city:"Ogden",
         country:"USA",
         goals:0,
@@ -162,7 +162,7 @@ export const players = [
         position:"Midfielder",
         city:"Ogden",
         country:"USA",
-        goals:0,
+        goals:2,
         assists:0,
         flag:"🇺🇸"
     },
@@ -196,7 +196,7 @@ export const players = [
         last:"Juarez",
         number:21,
         position:"Midfielder",
-        city:"",
+        city:"Salt Lake City",
         country:"USA",
         goals:0,
         assists:0,
@@ -207,7 +207,7 @@ export const players = [
         name:"Gustavo",
         last:"Pitzer",
         number:1,
-        position:"Goalkeeper",
+        position:"Goalkeeper (c)",
         city:"Rio de Janeiro",
         country:"Brazil",
         goals:null,
@@ -223,7 +223,7 @@ export const players = [
         position:"Forward",
         city:"Huánuco",
         country:"Peru",
-        goals:0,
+        goals:1,
         assists:0,
         flag:"🇵🇪"
     },
@@ -235,7 +235,7 @@ export const players = [
         position:"Forward",
         city:"Lincoln",
         country:"USA",
-        goals:0,
+        goals:2,
         assists:0,
         flag:"🇺🇸"
     },
@@ -337,5 +337,24 @@ export const players = [
         flag:"🇹🇿"
     },
 
+]
 
+export let coaches = [
+    {
+        name:"Renan",
+        last:"Mougenot B. Silva",
+        position:"Head Coach",
+        city:"Curitba",
+        country:"Brazil",
+        flag:"🇧🇷"
+    },
+
+    {
+        name:"Jaiden",
+        last:"Ralphs",
+        position:"Assistant Coach",
+        city:"",
+        country:"USA",
+        flag:"🇺🇸"
+    },
 ]

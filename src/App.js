@@ -7,7 +7,7 @@ function App() {
     <>
       <div id='back'>
 
-        <div id='box'>
+        <div id='main-box'>
           <h1>Weber State University</h1>
           <img src="/images/symbol2.svg" alt='Weber State Logo'/>
           <h2>Men's Soccer </h2>

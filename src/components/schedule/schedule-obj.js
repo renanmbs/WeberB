@@ -14,7 +14,7 @@ export const Games = [
         them: 1,
         where: "Spence Eccles",
         date: "August 30th",
-        scorers: ["Brandon", "Ben (4x), Humberto"]
+        scorers: ["Brandon", "Ben (4x)", "Humberto"]
     },
 
     {
@@ -23,7 +23,7 @@ export const Games = [
         them: 4,
         where: "Weber State",
         date: "August 31st",
-        scorers: ["Easton (2x)", "Ben, Hunter"]
+        scorers: ["Easton (2x)", "Ben", "Hunter"]
     },
 
     {
@@ -72,7 +72,7 @@ export const Games = [
     },
 
     {
-        opponent: "Southern Utah University",
+        opponent: "SUU",
         us: null,
         them: null,
         where: "Spence Eccles",
@@ -90,7 +90,7 @@ export const Games = [
     },
 
     {
-        opponent: "Southern Utah University",
+        opponent: "SUU",
         us: null,
         them: null,
         where: "Cedar City, UT",
@@ -102,13 +102,14 @@ export const Games = [
         opponent: "Utah Tech",
         us: null,
         them: null,
-        where: "Bozeman, MT",
+        where: "Saint George, UT",
         date: "October 28th",
         scorers: null
     },
 
     {
-        opponent: "Tournament TBD",
+        opponent: null,
+        tbd:"Tournament TBD",
         us: null,
         them: null,
         where: "TBD",
