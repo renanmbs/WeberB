@@ -91,9 +91,5 @@ img[src*="symbol"]{
   #box h1{
     font-size: 2.5rem;
   }
-
-  #back{
-    min-height: 80vh;
-  }
   
 }
