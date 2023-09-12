@@ -1,0 +1,81 @@
+#rost{
+    background-color: black;
+    color: white;
+    box-sizing: border-box
+}
+
+#rost2{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr))
+}
+
+button{
+    width: 2rem;
+    height: 2rem;
+}
+
+#rost h2{
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+#map{
+    background-color: black;
+    padding: 5% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+}
+
+#border{
+    background-color: #490d67;
+    width: 80%;
+    height: 100%;
+    margin: 2% 0;
+    border: solid white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    filter: drop-shadow(3px 3px 2px white);
+}
+
+#border p{
+    color:white;
+    padding: 1% 0;
+}
+
+#stats{
+    display: none;
+}
+
+#border:hover #stats{
+    display: block;
+}
+
+.icon{
+    font-size: 2rem;
+    padding: 1rem 0;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.last{
+    font-style: italic;
+    font-size: 1.3rem;
+}
+
+.flag{
+    font-size: 1.8rem;
+}
+
