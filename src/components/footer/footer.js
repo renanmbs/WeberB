@@ -1,5 +1,6 @@
 import "./footer.css";
 import {MdOutlineMail } from 'react-icons/md';
+import {AiOutlineYoutube } from 'react-icons/ai';
 import {MdOutlineAlternateEmail, MdOutlineAttachMoney} from "react-icons/md"
 
 export function Footer(){
@@ -19,6 +20,7 @@ export function Footer(){
             <div id="cont">
                 <a href="mailto:renan.mougenot@gmail.com" alt="Email Us" title="Email Us"><MdOutlineMail className="icons"/></a>
                 <a href="https://www.instagram.com/wsumsoccer/" alt="Instagram" title="Instagram" target="_blank" rel="noopener noreferrer"><MdOutlineAlternateEmail className="icons"/></a>
+                <a href="https://www.youtube.com/channel/UC7-1hil_n8L2UIE90Irp-Ng" alt="YouTube" title="YouTube" target="_blank" rel="noopener noreferrer"><AiOutlineYoutube className="icons"/></a>
                 <a href="https://securelb.imodules.com/s/953/dream125/aa17/index-no-header.aspx?sid=953&gid=16&pgid=1828&cid=3540&appealcode=MensSoccer19&dids=221&bledit=1" target="_blank" rel="noopener noreferrer" alt="Sponsorships" title="Sponsors"><MdOutlineAttachMoney className="icons"/></a>
             </div>
         </div>
