@@ -110,13 +110,7 @@
     }
 
     #rost{
-    margin-bottom: 1rem;
-    }
-
-    .rost2{
-        display: grid;
-        place-items: center;
-        grid-template-columns: repeat(3, minmax(0, 0.7fr))
+    padding-bottom: 1rem;
     }
 
   }
