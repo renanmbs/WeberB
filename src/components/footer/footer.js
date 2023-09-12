@@ -9,7 +9,7 @@ export function Footer(){
             <h2>Contact Us</h2>
 
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1085.2337599708294!2d-111.94717301569217!3d41.189000724901305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875308abe2c0c1d3%3A0xfc943a5a08926efa!2sWildcats%20Football%20Practice%20Field%20at%20Weber%20State%20University!5e0!3m2!1sen!2sus!4v1694499815165!5m2!1sen!2sus"
-             allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+             allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Location"></iframe>
             
 
             <h3>Practices</h3>
