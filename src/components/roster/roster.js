@@ -30,6 +30,8 @@ export function Roster(){
                                     <div>
                                         <p>{<GiGoalKeeper className="icon"/>}</p>
                                         <p>{name.clean}</p>
+                                        <p>{<GiSoccerKick className="icon" />}</p>
+                                        <p>{name.assists}</p>
                                     </div>
 
                                     :
