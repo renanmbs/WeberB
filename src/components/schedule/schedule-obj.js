@@ -63,15 +63,6 @@ export const Games = [
     },
 
     {
-        opponent: "Utah Tech",
-        us: null,
-        them: null,
-        where: "Weber State",
-        date: "September 30th",
-        scorers: null
-    },
-
-    {
         opponent: "SUU",
         us: null,
         them: null,
@@ -104,6 +95,15 @@ export const Games = [
         them: null,
         where: "Saint George, UT",
         date: "October 28th",
+        scorers: null
+    },
+
+    {
+        opponent: "Utah Tech",
+        us: null,
+        them: null,
+        where: "Weber State",
+        date: "November 4th",
         scorers: null
     },
 
