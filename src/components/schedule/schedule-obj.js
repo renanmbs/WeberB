@@ -37,17 +37,17 @@ export const Games = [
 
     {
         opponent: "Ogden Soccer",
-        us: null,
-        them: null,
+        us: 3,
+        them: 1,
         where: "Mount Ogden Park",
         date: "September 16th",
-        scorers: null
+        scorers: ["Cache (2x), Own Goal"]
     },
 
     {
         opponent: "Montana State",
-        us: null,
-        them: null,
+        us: 0,
+        them: 3,
         where: "Bozeman, MT",
         date: "September 22nd",
         scorers: null
@@ -55,11 +55,11 @@ export const Games = [
 
     {
         opponent: "Montana Tech",
-        us: null,
-        them: null,
+        us: 5,
+        them: 1,
         where: "Bozeman, MT",
         date: "September 23rd",
-        scorers: null
+        scorers: ["Riley", "Ben", "Humberto", "Emmanuel", "Michael"]
     },
 
     {

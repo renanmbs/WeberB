@@ -66,8 +66,8 @@ export const players = [
         position:"Forward",
         city:"Ogden",
         country:"USA",
-        goals:6,
-        assists:0,
+        goals:7,
+        assists:1,
         flag:"🇺🇸"
     },
 
@@ -103,7 +103,7 @@ export const players = [
         city:"Logan",
         country:"USA",
         goals:0,
-        assists:0,
+        assists:1,
         flag:"🇺🇸"
     },
 
@@ -127,7 +127,7 @@ export const players = [
         city:"Ogden",
         country:"USA",
         goals:0,
-        assists:0,
+        assists:1,
         flag:"🇺🇸"
     },
 
@@ -174,7 +174,7 @@ export const players = [
         position:"Forward",
         city:"Visalia",
         country:"USA",
-        goals:0,
+        goals:1,
         assists:0,
         flag:"🇺🇸"
     },
@@ -211,7 +211,7 @@ export const players = [
         city:"Rio de Janeiro",
         country:"Brazil",
         goals:null,
-        assists:null,
+        assists:1,
         clean:0,
         flag:"🇧🇷"
     },
@@ -223,7 +223,7 @@ export const players = [
         position:"Forward",
         city:"Huánuco",
         country:"Peru",
-        goals:1,
+        goals:2,
         assists:0,
         flag:"🇵🇪"
     },
@@ -283,7 +283,7 @@ export const players = [
         position:"Midfielder",
         city:"Clovis",
         country:"USA",
-        goals:0,
+        goals:1,
         assists:0,
         flag:"🇺🇸"
     },
@@ -295,22 +295,22 @@ export const players = [
         position:"Midfielder",
         city:"Ogden",
         country:"USA",
-        goals:0,
-        assists:0,
+        goals:1,
+        assists:1,
         flag:"🇺🇸"
     },
 
-    // {
-    //     name:"Thomas",
-    //     last:"Farr",
-    //     number:0,
-    //     position:"Defender",
-    //     city:"",
-    //     country:"",
-    //     goals:0,
-    //     assists:0,
-    //     flag:""
-    // },
+    {
+        name:"Thomas",
+        last:"Farr",
+        number:0,
+        position:"Defender",
+        city:"",
+        country:"",
+        goals:0,
+        assists:0,
+        flag:""
+    },
 
     {
         name:"Tyler",
@@ -333,7 +333,7 @@ export const players = [
         city:"Kigoma",
         country:"Tanzania",
         goals:0,
-        assists:0,
+        assists:1,
         flag:"🇹🇿"
     },
 
