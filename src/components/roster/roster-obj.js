@@ -320,7 +320,7 @@ export const players = [
         city:"Kaysville",
         country:"USA",
         goals:null,
-        assists:null,
+        assists:0,
         clean: 0,
         flag:"🇺🇸"
     },
