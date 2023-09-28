@@ -109,7 +109,7 @@ export const players = [
 
     {
         name:"Christian",
-        last:"Kontey",
+        last:"Simpore",
         number:16,
         position:"Defender",
         city:"Ouagadougou",
@@ -127,7 +127,7 @@ export const players = [
         city:"Ogden",
         country:"USA",
         goals:0,
-        assists:1,
+        assists:2,
         flag:"🇺🇸"
     },
 
@@ -143,17 +143,17 @@ export const players = [
         flag:"🇺🇸"
     },
 
-    {
-        name:"Daniel",
-        last:"Wilson",
-        number:19,
-        position:"Defender",
-        city:"Ogden",
-        country:"USA",
-        goals:0,
-        assists:0,
-        flag:"🇺🇸"
-    },
+    // {
+    //     name:"Daniel",
+    //     last:"Wilson",
+    //     number:19,
+    //     position:"Defender",
+    //     city:"Ogden",
+    //     country:"USA",
+    //     goals:0,
+    //     assists:0,
+    //     flag:"🇺🇸"
+    // },
 
     {
         name:"Easton",
@@ -224,7 +224,7 @@ export const players = [
         city:"Huánuco",
         country:"Peru",
         goals:2,
-        assists:0,
+        assists:1,
         flag:"🇵🇪"
     },
 
@@ -305,11 +305,11 @@ export const players = [
         last:"Farr",
         number:0,
         position:"Defender",
-        city:"",
-        country:"",
+        city:"Salt Lake City",
+        country:"USA",
         goals:0,
         assists:0,
-        flag:""
+        flag:"🇺🇸"
     },
 
     {
