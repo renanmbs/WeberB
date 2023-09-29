@@ -228,17 +228,17 @@ export const players = [
         flag:"🇵🇪"
     },
 
-    {
-        name:"Hunter",
-        last:"Spencer",
-        number:15,
-        position:"Forward",
-        city:"Lincoln",
-        country:"USA",
-        goals:2,
-        assists:0,
-        flag:"🇺🇸"
-    },
+    // {
+    //     name:"Hunter",
+    //     last:"Spencer",
+    //     number:15,
+    //     position:"Forward",
+    //     city:"Lincoln",
+    //     country:"USA",
+    //     goals:2,
+    //     assists:0,
+    //     flag:"🇺🇸"
+    // },
 
     {
         name:"Julio",
