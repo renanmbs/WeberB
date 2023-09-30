@@ -41,7 +41,7 @@ export const Games = [
         them: 1,
         where: "Mount Ogden Park",
         date: "September 16th",
-        scorers: ["Cache (2x), Own Goal"]
+        scorers: ["Cache (2x)", "Own Goal"]
     },
 
     {

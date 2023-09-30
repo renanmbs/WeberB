@@ -303,7 +303,7 @@ export const players = [
     {
         name:"Thomas",
         last:"Farr",
-        number:0,
+        number:19,
         position:"Defender",
         city:"Salt Lake City",
         country:"USA",

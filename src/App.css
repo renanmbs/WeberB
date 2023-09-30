@@ -39,7 +39,7 @@
 
 img[src*="symbol"]{
   height: 12rem;
-  animation: popOut 4s ease-in-out infinite;
+  animation: popOut 4s ease-in-out;
 }
 
 #box h1{
