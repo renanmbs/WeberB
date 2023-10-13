@@ -35,17 +35,17 @@ export const players = [
         flag:"🇺🇸"
     },
 
-    {
-        name:"Aziz",
-        last:"Bluwe",       
-        number:12,
-        position:"Defender",
-        city:"Al Khafji",
-        country:"Saudi Arabia",
-        goals:0,
-        assists:0,
-        flag:"🇸🇦"
-    },
+    // {
+    //     name:"Aziz",
+    //     last:"Bluwe",       
+    //     number:12,
+    //     position:"Defender",
+    //     city:"Al Khafji",
+    //     country:"Saudi Arabia",
+    //     goals:0,
+    //     assists:0,
+    //     flag:"🇸🇦"
+    // },
 
     {
         name:"Belal",
@@ -102,7 +102,7 @@ export const players = [
         position:"Midfielder",
         city:"Logan",
         country:"USA",
-        goals:0,
+        goals:2,
         assists:1,
         flag:"🇺🇸"
     },

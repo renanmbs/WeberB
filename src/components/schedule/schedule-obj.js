@@ -63,20 +63,29 @@ export const Games = [
     },
 
     {
-        opponent: "SUU",
+        opponent: "Vikings FC",
         us: null,
         them: null,
-        where: "Spence Eccles",
-        date: "October 7th",
+        where: "Weber State Turf Field",
+        date: "October 14th (11:30am)",
         scorers: null
     },
 
     {
-        opponent: "Vikings FC",
+        opponent: "Utah Tech",
+        us: null,
+        them: null,
+        where: "Ogden High School",
+        date: "October 21st (5pm)",
+        scorers: null
+    },
+
+    {
+        opponent: "Hill Airforce Base",
         us: null,
         them: null,
         where: "Spence Eccles",
-        date: "October 14th",
+        date: "October 25th (8:30pm)",
         scorers: null
     },
 
@@ -85,7 +94,7 @@ export const Games = [
         us: null,
         them: null,
         where: "Cedar City, UT",
-        date: "October 27th",
+        date: "November 3rd",
         scorers: null
     },
 
@@ -94,26 +103,17 @@ export const Games = [
         us: null,
         them: null,
         where: "Saint George, UT",
-        date: "October 28th",
-        scorers: null
-    },
-
-    {
-        opponent: "Utah Tech",
-        us: null,
-        them: null,
-        where: "Weber State",
         date: "November 4th",
         scorers: null
     },
 
     {
         opponent: null,
-        tbd:"Tournament TBD",
+        tbd:"Director's Cup",
         us: null,
         them: null,
-        where: "TBD",
-        date: "November",
+        where: "California",
+        date: "November (TBD)",
         scorers: null
     },
 
