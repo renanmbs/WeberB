@@ -12,6 +12,18 @@ export const players = [
     },
 
     {
+        name:"Adam",
+        last:"Heald",
+        number:15,
+        position:"Midfielder",
+        city:"Salt Lake City",
+        country:"USA",
+        goals:0,
+        assists:0,
+        flag:"🇺🇸"
+    },
+
+    {
         name:"Alex",
         last:"Gil",
         number:5,
@@ -167,17 +179,17 @@ export const players = [
         flag:"🇺🇸"
     },
 
-    {
-        name:"Emmanuel",
-        last:"Perez",
-        number:11,
-        position:"Forward",
-        city:"Visalia",
-        country:"USA",
-        goals:1,
-        assists:0,
-        flag:"🇺🇸"
-    },
+    // {
+    //     name:"Emmanuel",
+    //     last:"Perez",
+    //     number:11,
+    //     position:"Forward",
+    //     city:"Visalia",
+    //     country:"USA",
+    //     goals:1,
+    //     assists:0,
+    //     flag:"🇺🇸"
+    // },
 
     {
         name:"Ethan",
@@ -328,7 +340,7 @@ export const players = [
     {
         name:"Wilonja",
         last:"Tumaini",
-        number:27,
+        number:25,
         position:"Forward",
         city:"Kigoma",
         country:"Tanzania",
