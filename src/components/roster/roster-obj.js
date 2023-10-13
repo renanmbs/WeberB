@@ -16,7 +16,7 @@ export const players = [
         last:"Heald",
         number:15,
         position:"Midfielder",
-        city:"Salt Lake City",
+        city:"Logan",
         country:"USA",
         goals:0,
         assists:0,
