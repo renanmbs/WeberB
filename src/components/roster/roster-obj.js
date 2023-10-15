@@ -31,7 +31,7 @@ export const players = [
         city:"Ogden",
         country:"USA",
         goals:0,
-        assists:0,
+        assists:1,
         flag:"🇺🇸"
     },
 
@@ -67,7 +67,7 @@ export const players = [
         city:"Alexandria",
         country:"Egypt",
         goals:0,
-        assists:0,
+        assists:1,
         flag:"🇪🇬"
     },
 
@@ -78,8 +78,8 @@ export const players = [
         position:"Forward",
         city:"Ogden",
         country:"USA",
-        goals:7,
-        assists:1,
+        goals:11,
+        assists:3,
         flag:"🇺🇸"
     },
 
@@ -102,8 +102,8 @@ export const players = [
         position:"Forward",
         city:"Layton",
         country:"USA",
-        goals:3,
-        assists:0,
+        goals:4,
+        assists:2,
         flag:"🇺🇸"
     },
 
@@ -114,8 +114,8 @@ export const players = [
         position:"Midfielder",
         city:"Logan",
         country:"USA",
-        goals:2,
-        assists:1,
+        goals:3,
+        assists:3,
         flag:"🇺🇸"
     },
 
@@ -138,7 +138,7 @@ export const players = [
         position:"Defender (c)",
         city:"Ogden",
         country:"USA",
-        goals:0,
+        goals:1,
         assists:2,
         flag:"🇺🇸"
     },
@@ -210,7 +210,7 @@ export const players = [
         position:"Midfielder",
         city:"Salt Lake City",
         country:"USA",
-        goals:0,
+        goals:1,
         assists:0,
         flag:"🇺🇸"
     },
@@ -296,7 +296,7 @@ export const players = [
         city:"Clovis",
         country:"USA",
         goals:1,
-        assists:0,
+        assists:1,
         flag:"🇺🇸"
     },
 
