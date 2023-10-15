@@ -64,11 +64,11 @@ export const Games = [
 
     {
         opponent: "Vikings FC",
-        us: null,
-        them: null,
+        us: 9,
+        them: 0,
         where: "Weber State Turf Field",
         date: "October 14th (11:30am)",
-        scorers: null
+        scorers: ["Adam, Ben (4x), Brandon, Cache, Cooper, Gabe"]
     },
 
     {

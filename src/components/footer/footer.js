@@ -14,7 +14,7 @@ export function Footer(){
             
 
             <h3>Practices</h3>
-            <p>Tueday and Thursday</p>
+            <p>Monday and Thursday</p>
             <p>6pm to 8pm</p>
 
             <div id="cont">

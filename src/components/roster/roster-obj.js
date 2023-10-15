@@ -27,7 +27,7 @@ export const players = [
         name:"Alex",
         last:"Gil",
         number:5,
-        position:"Midfielder",
+        position:"Defender",
         city:"Ogden",
         country:"USA",
         goals:0,
