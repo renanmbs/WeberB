@@ -113,7 +113,7 @@ export const Games = [
         us: null,
         them: null,
         where: "California",
-        date: "November (TBD)",
+        date: "November 17-19",
         scorers: null
     },
 

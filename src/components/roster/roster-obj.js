@@ -252,17 +252,17 @@ export const players = [
     //     flag:"🇺🇸"
     // },
 
-    {
-        name:"Julio",
-        last:"Huerta",
-        number:18,
-        position:"Midfielder",
-        city:"Ogden",
-        country:"USA",
-        goals:0,
-        assists:0,
-        flag:"🇺🇸"
-    },
+    // {
+    //     name:"Julio",
+    //     last:"Huerta",
+    //     number:18,
+    //     position:"Midfielder",
+    //     city:"Ogden",
+    //     country:"USA",
+    //     goals:0,
+    //     assists:0,
+    //     flag:"🇺🇸"
+    // },
     
     {
         name:"Kolton",
