@@ -272,7 +272,7 @@ export const players = [
         city:"Layton",
         country:"USA",
         goals:0,
-        assists:0,
+        assists:1,
         flag:"🇺🇸"
     },
 
@@ -295,7 +295,7 @@ export const players = [
         position:"Midfielder",
         city:"Clovis",
         country:"USA",
-        goals:1,
+        goals:2,
         assists:1,
         flag:"🇺🇸"
     },

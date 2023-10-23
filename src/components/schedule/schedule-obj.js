@@ -68,16 +68,16 @@ export const Games = [
         them: 0,
         where: "Weber State Turf Field",
         date: "October 14th (11:30am)",
-        scorers: ["Adam, Ben (4x), Brandon, Cache, Cooper, Gabe"]
+        scorers: ["Adam", "Ben (4x)", "Brandon", "Cache", "Cooper", "Gabe"]
     },
 
     {
         opponent: "Utah Tech",
-        us: null,
-        them: null,
+        us: 1,
+        them: 3,
         where: "Ogden High School",
         date: "October 21st (5pm)",
-        scorers: null
+        scorers: ["Michael"]
     },
 
     {
