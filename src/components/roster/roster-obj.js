@@ -78,7 +78,7 @@ export const players = [
         position:"Forward",
         city:"Ogden",
         country:"USA",
-        goals:11,
+        goals:12,
         assists:3,
         flag:"🇺🇸"
     },
@@ -102,7 +102,7 @@ export const players = [
         position:"Forward",
         city:"Layton",
         country:"USA",
-        goals:4,
+        goals:5,
         assists:2,
         flag:"🇺🇸"
     },
@@ -268,7 +268,7 @@ export const players = [
         name:"Kolton",
         last:"Kitchin",
         number:24,
-        position:"Defender",
+        position:"Midfielder",
         city:"Layton",
         country:"USA",
         goals:0,
@@ -295,7 +295,7 @@ export const players = [
         position:"Midfielder",
         city:"Clovis",
         country:"USA",
-        goals:2,
+        goals:3,
         assists:1,
         flag:"🇺🇸"
     },
@@ -328,7 +328,7 @@ export const players = [
         name:"Tyler",
         last:"Bagley",
         number:0,
-        position:"Midfielder",
+        position:"Goalkeeper",
         city:"Kaysville",
         country:"USA",
         goals:null,
@@ -341,7 +341,7 @@ export const players = [
         name:"Wilonja",
         last:"Tumaini",
         number:25,
-        position:"Forward",
+        position:"Midfielder",
         city:"Kigoma",
         country:"Tanzania",
         goals:0,
@@ -362,7 +362,7 @@ export let coaches = [
     },
 
     {
-        name:"Jaiden",
+        name:"Jaden",
         last:"Ralphs",
         position:"Assistant Coach",
         city:"Layton",

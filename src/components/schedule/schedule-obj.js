@@ -82,40 +82,29 @@ export const Games = [
 
     {
         opponent: "Hill Airforce Base",
-        us: null,
-        them: null,
+        us: 2,
+        them: 0,
         where: "Spence Eccles",
         date: "October 25th (8:30pm)",
-        scorers: null
+        scorers: ["Brandon", "Ben"]
     },
 
     {
         opponent: "SUU",
-        us: null,
-        them: null,
+        us: 1,
+        them: 1,
         where: "Cedar City, UT",
         date: "November 3rd",
-        scorers: null
+        scorers: ["Michael"]
     },
 
     {
         opponent: "Utah Tech",
-        us: null,
-        them: null,
+        us: 2,
+        them: 1,
         where: "Saint George, UT",
         date: "November 4th",
-        scorers: null
-    },
-
-    {
-        opponent: null,
-        tbd:"Director's Cup",
-        us: null,
-        them: null,
-        where: "California",
-        date: "November 17-19",
-        scorers: null
-    },
-
+        scorers: ["Rafa (x2)"]
+    }
     
 ]
